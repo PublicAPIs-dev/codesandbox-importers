@@ -39,7 +39,7 @@
     "ts-node": "^8.10.1"
   },
   "dependencies": {
-    "@appsignal/nodejs": "^2.0.25",
+    "@appsignal/nodejs": "^3.6.4",
     "@babel/core": "^7.23.2",
     "@babel/traverse": "^7.23.2",
     "@koa/router": "^9.4.0",
